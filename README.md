@@ -4,6 +4,8 @@
 
 This data analysis project aims to provide insights into the price performance of a Polish real estate market over the past half year. By analyzing various aspects of the pricing data, we seek to identify trends, make data-driven recomendations, and gain a deeper understanding of the Polish real estate market performance. 
 
+![Screenshot real estate project](https://github.com/DenysLebid/-Real-Estate-Dashboard/assets/159707774/a190ccf8-1800-4e1d-b7fa-185ff47cab61)
+
 
 ### Data Source
 The dataset contains apartment sales and rent offers from the 15 largest cities in Poland (Warsaw, Lodz, Krakow, Wroclaw, Poznan, Gdansk, Szczecin, Bydgoszcz, Lublin, Katowice, Bialystok, Czestochowa). The data comes from local websites with apartments for sale.
