@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the price performance of a Polish real estate market over the past half year. By analyzing various aspects of the pricing data, we seek to identify trends, make data-driven recomendations, and gain a deeper understanding of the Polish real estate market performance. 
+This data analysis project aims to provide insights into the price performance of a Polish real estate market over the past half year. By analyzing various aspects of the pricing data, I seek to identify trends, make data-driven recomendations, and gain a deeper understanding of the Polish real estate market performance. 
 
 
 ![Screenshot real estate project 2](https://github.com/DenysLebid/-Real-Estate-Dashboard/assets/159707774/240bfba5-5797-4f12-a55b-48b0731334c4)
@@ -18,7 +18,7 @@ The dataset contains apartment sales and rent offers from the 15 largest cities 
 
 ### Data Cleaning/Preparation
 
-In the initial data prepararion phase, we performed the following tasks:
+In the initial data prepararion phase, I performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data cleaning and formating
@@ -27,7 +27,7 @@ In the initial data prepararion phase, we performed the following tasks:
 
 - What is the overall price trend?
 - Which apartments are increasing most in price?
-- What is approximate ROR over the years for apartments in different cities from rent?
+- What is an approximate ROR over the years for apartments in different cities from rent?
 
   
 ### Data Analysis
@@ -47,14 +47,14 @@ Aprx Rent ROR Years = ROUND(Sheet1[Avg price 2] / rent_data_24_4[Avg Rent Price]
 The analysis results are sumarized as follows:
 1. The prices of apartments increased by almost 15% over the past half year.
 2. The most increased in price the Small apartments that are in a range of 25 to 40 square meters
-3. The approximate ROR for Small apartments (25m2 >< 40m2) is 15 years, Medium apartments (40m2 >< 60m2) is 20 years and for big apartments (60m2 >< 80m2) is 26 years
+3. The approximate ROR for Small apartments (25m2 - 40m2) is 15 years, Medium apartments (40m2 - 60m2) is 20 years and for big apartments (60m2 - 80m2) is 26 years
 
 ### Recommendations
 
-Based on the analysis, we recommend the following
+Based on the analysis, I recommend the following:
 - Invest in Small apartments that are in a range of 25m2 to 40m2
-- Focus more on Smaller cities the prices of apartment are more attractive in other hand the rent difference is not so high.
+- Focus more on Smaller cities where the prices of apartment are more attractive in other hand the rent difference is not so high.
 
 ### Limitations
-I had to remove all Apartments from data source that have more than 80m2 and are in a buildings that was build more than 24 years ago. 
+I had to remove all Apartments from data source that have more than 80m2 and are in a buildings that were built more than 24 years ago.
 
