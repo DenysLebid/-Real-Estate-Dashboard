@@ -5,7 +5,8 @@
 This data analysis project aims to provide insights into the price performance of a Polish real estate market over the past half year. By analyzing various aspects of the pricing data, I seek to identify trends, make data-driven recomendations, and gain a deeper understanding of the Polish real estate market performance. 
 
 
-![Screenshot real estate project 2](https://github.com/DenysLebid/-Real-Estate-Dashboard/assets/159707774/240bfba5-5797-4f12-a55b-48b0731334c4)
+![Screenshot 2024-05-18 165850](https://github.com/DenysLebid/-Real-Estate-Dashboard/assets/159707774/4155aa1e-5d5c-45c5-800e-f75a37abb8bf)
+
 
 
 ### Data Source
